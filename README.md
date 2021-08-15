@@ -1,24 +1,9 @@
 # 04-pokemon-game
 
-## Project setup
-```
-npm install
-```
+## TODOS:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- Contador de vidas para el termino de juego
+- Contador de aciertos de usuario
+- Mejoras en los estilos
+- Método para reiniciar el juego una vez el usuario gasta todas sus vidas
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
