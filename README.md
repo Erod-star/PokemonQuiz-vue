@@ -1,4 +1,4 @@
-# 04-pokemon-game
+# PokemonQuiz-vue
 
 ## TODOS:
 
